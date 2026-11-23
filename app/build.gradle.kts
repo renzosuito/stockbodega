@@ -62,4 +62,5 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel.compose)
    // Íconos de Material
     implementation(libs.androidx.compose.material.icons.extended)
+    implementation(libs.play.services.code.scanner)
 }
